@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E6E7E7;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#4FC1BF;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:#4EC2BF;}
+	.st5{fill:#07AA83;}
+	.st6{fill:#F68C6F;}
+	.st7{font-family:'MetricHPE-Semibold';}
+	.st8{font-size:26px;}
+	.st9{font-family:'MetricHPE-Light';}
+</style>
+<g id="XMLID_11_">
+	<path id="XMLID_7_" class="st0" d="M289.5,204l-14,8.2c-3.3,2-7.5,2-10.8,0.1l-14.1-8c-3.4-1.9-5.4-5.5-5.5-9.4l-0.1-16.2
+		c0-3.9,2-7.5,5.4-9.4l14-8.2c3.3-2,7.5-2,10.8-0.1l14.1,8c3.4,1.9,5.4,5.5,5.5,9.4l0.1,16.2C294.9,198.4,292.9,202,289.5,204z"/>
+	<path id="XMLID_6_" class="st1" d="M270,211.4L247.5,189c-1.4-1.4-1.4-3.6,0-4.9l22.5-22.5l22.5,22.5c0.8,0.8,0.9,4,0,4.9
+		L270,211.4z"/>
+	<path id="XMLID_2_" class="st2" d="M287,203.2l-11,6.5c-3.7,2.2-8.2,2.2-12,0.1l-11.1-6.3c-3.7-2.1-6-6.1-6-10.3l-0.1-12.8
+		c0-4.3,2.2-8.2,5.9-10.4l11-6.5c3.7-2.2,8.2-2.2,12-0.1l11.1,6.3c3.7,2.1,6,6.1,6,10.3l0.1,12.8C292.9,197.1,290.7,201,287,203.2z"
+		/>
+	<line id="XMLID_8_" class="st3" x1="253.2" y1="170" x2="286.3" y2="202.9"/>
+	<line id="XMLID_9_" class="st3" x1="286.8" y1="169.7" x2="253.2" y2="202.9"/>
+	<g id="XMLID_3_">
+		<path id="XMLID_4_" class="st4" d="M281.8,178.6l-14.3,3.3c-0.2,0-0.6-0.1-0.9-0.3l-8-5.2c-0.3-0.2-0.4-0.4-0.2-0.5l14.3-3.3
+			c0.2,0,0.6,0.1,0.9,0.3l8,5.2C281.9,178.4,282,178.6,281.8,178.6z"/>
+		<path id="XMLID_5_" class="st5" d="M281.5,187.9l-14.3,3.3c-0.2,0-0.6-0.1-0.9-0.3l-8-5.2c-0.3-0.2-0.4-0.4-0.2-0.5l14.3-3.3
+			c0.2,0,0.6,0.1,0.9,0.3l8,5.2C281.7,187.6,281.7,187.8,281.5,187.9z"/>
+		<path id="XMLID_10_" class="st6" d="M281.5,197.2l-14.3,3.3c-0.2,0-0.6-0.1-0.9-0.3l-8-5.2c-0.3-0.2-0.4-0.4-0.2-0.5l14.3-3.3
+			c0.2,0,0.6,0.1,0.9,0.3l8,5.2C281.7,196.9,281.7,197.1,281.5,197.2z"/>
+	</g>
+	<text id="XMLID_1_" transform="matrix(1 0 0 1 304 194.749)"><tspan x="0" y="0" class="st1 st7 st8">API</tspan><tspan x="37" y="0" class="st1 st9 st8"> CENTRAL</tspan></text>
+</g>
+</svg>
